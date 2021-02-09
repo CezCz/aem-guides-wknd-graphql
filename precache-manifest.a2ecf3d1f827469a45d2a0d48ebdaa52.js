@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c9aa1ead11f2e0d89a83d43f66b82e10",
+    "revision": "2215a3015ab71009aa150a99a2b09b75",
     "url": "https://cezcz.github.io/aem-guides-wknd-graphql/index.html"
   },
   {

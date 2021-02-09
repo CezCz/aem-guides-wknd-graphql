@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://cezcz.github.io/aem-guides-wknd-graphql/static/css/main.f6a87e45.chunk.css",
-    "main.js": "https://cezcz.github.io/aem-guides-wknd-graphql/static/js/main.c83fa2bc.chunk.js",
-    "main.js.map": "https://cezcz.github.io/aem-guides-wknd-graphql/static/js/main.c83fa2bc.chunk.js.map",
+    "main.js": "https://cezcz.github.io/aem-guides-wknd-graphql/static/js/main.1a29684e.chunk.js",
+    "main.js.map": "https://cezcz.github.io/aem-guides-wknd-graphql/static/js/main.1a29684e.chunk.js.map",
     "runtime-main.js": "https://cezcz.github.io/aem-guides-wknd-graphql/static/js/runtime-main.cdad8513.js",
     "runtime-main.js.map": "https://cezcz.github.io/aem-guides-wknd-graphql/static/js/runtime-main.cdad8513.js.map",
     "static/js/2.5afca1ab.chunk.js": "https://cezcz.github.io/aem-guides-wknd-graphql/static/js/2.5afca1ab.chunk.js",
     "static/js/2.5afca1ab.chunk.js.map": "https://cezcz.github.io/aem-guides-wknd-graphql/static/js/2.5afca1ab.chunk.js.map",
     "index.html": "https://cezcz.github.io/aem-guides-wknd-graphql/index.html",
-    "precache-manifest.7a94fdec112360c334a3477bf12c6a01.js": "https://cezcz.github.io/aem-guides-wknd-graphql/precache-manifest.7a94fdec112360c334a3477bf12c6a01.js",
+    "precache-manifest.9d2b9cca98441fa5ee1cbb46b72f52e6.js": "https://cezcz.github.io/aem-guides-wknd-graphql/precache-manifest.9d2b9cca98441fa5ee1cbb46b72f52e6.js",
     "service-worker.js": "https://cezcz.github.io/aem-guides-wknd-graphql/service-worker.js",
     "static/css/main.f6a87e45.chunk.css.map": "https://cezcz.github.io/aem-guides-wknd-graphql/static/css/main.f6a87e45.chunk.css.map",
     "static/js/2.5afca1ab.chunk.js.LICENSE.txt": "https://cezcz.github.io/aem-guides-wknd-graphql/static/js/2.5afca1ab.chunk.js.LICENSE.txt",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.cdad8513.js",
     "static/js/2.5afca1ab.chunk.js",
     "static/css/main.f6a87e45.chunk.css",
-    "static/js/main.c83fa2bc.chunk.js"
+    "static/js/main.1a29684e.chunk.js"
   ]
 }

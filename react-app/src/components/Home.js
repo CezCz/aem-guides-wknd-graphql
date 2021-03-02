@@ -12,7 +12,7 @@ function Home() {
       <h2>Current Adventures</h2>
       <Adventures />
       <AEMPage
-        pagePath='/content/wknd-spa/home' />
+        pagePath='/content/editorxpdevelopment/us/en' />
     </div>
   );
 }
